@@ -17,4 +17,5 @@ En tercer lugar, el resultado:
 
 
 Si profundizamos un poco en el código, si quisieramos emplear otro fichero, habría que modificar el programa para decirle que fichero usar
+
 ![alt text](https://github.com/rodrigolopezramoss/GeneradorWebCurriculum/blob/master/capturas/2020-03-25%20(6).png)
